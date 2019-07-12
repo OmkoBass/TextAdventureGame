@@ -1,0 +1,11 @@
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\bin\Debug\netcoreapp2.1\TextAdventureGame.deps.json
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\bin\Debug\netcoreapp2.1\TextAdventureGame.runtimeconfig.json
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\bin\Debug\netcoreapp2.1\TextAdventureGame.runtimeconfig.dev.json
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\bin\Debug\netcoreapp2.1\TextAdventureGame.dll
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\bin\Debug\netcoreapp2.1\TextAdventureGame.pdb
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\obj\Debug\netcoreapp2.1\TextAdventureGame.csprojAssemblyReference.cache
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\obj\Debug\netcoreapp2.1\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\obj\Debug\netcoreapp2.1\TextAdventureGame.AssemblyInfoInputs.cache
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\obj\Debug\netcoreapp2.1\TextAdventureGame.AssemblyInfo.cs
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\obj\Debug\netcoreapp2.1\TextAdventureGame.dll
+C:\Git\TextAdventureGame\TextAdventureGame\TextAdventureGame\obj\Debug\netcoreapp2.1\TextAdventureGame.pdb
