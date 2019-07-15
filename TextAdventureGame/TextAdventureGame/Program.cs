@@ -37,6 +37,7 @@ namespace TextAdventureGame
 
             while (true)
             {
+                Console.Clear();
                 printTemple(matrix);
                 Console.WriteLine("W up, A left, D right, S down");
                 Console.WriteLine("Choose where you want to go: ");
